@@ -1,5 +1,6 @@
 # Histogram
-# Definition: A histogram is used to show the distribution of numerical data. It groups values into intervals called bins.
+# Definition: A histogram is used to show the distribution of numerical data. 
+# It groups values into intervals called bins.
 
 # Example: Students' marks distribution
 

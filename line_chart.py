@@ -8,7 +8,14 @@
 # - Bar chart – to compare values.
 # - Histogram – to show the distribution of data.
 # - Scatter plot – to show the relationship between two values.
+
+
 # -pip install matplotlib
+
+# python -m pip install --upgrade pip
+# python -m pip install numpy
+# python -m pip install pandas
+
 # Line Chart
 # Definition: A line chart is used to show changes or trends over time.
 

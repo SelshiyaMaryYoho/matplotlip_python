@@ -11,7 +11,6 @@ marks = [80, 90, 70, 95]
 
 # Create bar chart
 plt.bar(students, marks, label="Marks")
-
 # Add title and labels
 plt.title("Student Marks")
 plt.xlabel("Students")
